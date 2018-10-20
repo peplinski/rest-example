@@ -1,4 +1,4 @@
-package com.pl.rest.example.restexample;
+package com.pl.rest.restexample;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
